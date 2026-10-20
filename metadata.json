@@ -1,0 +1,6 @@
+{
+  "name": "SafeRide",
+  "description": "SafeRide School Tracker - Mfumo wa ufuatiliaji wa usafiri wa wanafunzi kwa usalama, tiketi na arifa za moja kwa moja.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
